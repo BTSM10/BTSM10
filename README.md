@@ -25,11 +25,19 @@ NLP pipeline analyzing anonymized Slack communications across Gebeya Batch 6. In
 
 ## Stack
 
-| Code-first | No-code / Infra |
-|---|---|
-| Python · LangChain · LlamaIndex | n8n · Docker |
-| Groq API · Pinecone · Apify | GitHub Actions · SMTP |
-| Mistral-7B · LLaMA 3.3 70B | Jupyter · FastAPI |
+## Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=chainlink&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=flat&logo=llama&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat&logo=groq&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat&logo=pinecone&logoColor=white)
+![Apify](https://img.shields.io/badge/Apify-00B87A?style=flat&logo=apify&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 ---
 
